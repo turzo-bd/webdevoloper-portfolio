@@ -127,5 +127,33 @@ box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
     color: var #474747;
 font-size: 30px;
 font-weight: 700;
+   margin-bottom: 10px;
+}
+.resume-itm-institude{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.resume-item-description{
+    color: #757575;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+
+}
+.resume-item-tittle{
+    color: #757575;
+font-size: 20px;
+font-weight: 600;
+}
+.resume-container{
+    margin: 30px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
 
 }
